@@ -56,8 +56,9 @@ See the qiime2 documentation for details (https://docs.qiime2.org/2019.10/tutori
 
   <img src="Directory_structure.png">
 
+```sh  
 python basic_pipe.py <Library name> (e.g. 'Library1')
-
+```
 
 ### Output
 Several output files are generated in different subdirectories
