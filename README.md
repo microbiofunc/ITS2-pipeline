@@ -24,6 +24,8 @@ The overall flow is:
 
 demultiplexed fastq files (PE) --> merged pairs --> trim low quality reads and primer sequences --> within the qiime2 suite: dada2 generation and denoising ASVs --> ITSx facilited extraction of ITS2 regions from merged reads --> naive-bayes based classification of amplicons based on UNITE database version 8 sequences
 
+<img src="pipeline.png">
+
 ## Install
 
 ### Prerequisites
